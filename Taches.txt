@@ -1,9 +1,9 @@
-- artefact 		=> créer une classe d'objet
-- inventaire		=> créer une table dans laquelle se stock les class="artefact"
+- artefact 		=> crÃ©er une classe d'objet
+- inventaire		=> crÃ©er une table dans laquelle se stock les class="artefact"            => Antoine
 
-- interface d'edition	=> interface permettant d'utiliser les autres fonctions js
+- interface d'edition	=> interface permettant d'utiliser les autres fonctions js          => Joritz
 
-- pj			=> créer une classe d'objet
+- pj			=> crÃ©er une classe d'objet                                                     => FÃ©lix
 - pnj			=> modifier celle de pj
 
-=> assemblage		=> se démerder pour recoller tous les morceaux de code
+=> assemblage		=> se dÃ©merder pour recoller tous les morceaux de code                    => Benjamin
