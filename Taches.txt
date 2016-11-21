@@ -1,0 +1,9 @@
+- artefact 		=> créer une classe d'objet
+- inventaire		=> créer une table dans laquelle se stock les class="artefact"
+
+- interface d'edition	=> interface permettant d'utiliser les autres fonctions js
+
+- pj			=> créer une classe d'objet
+- pnj			=> modifier celle de pj
+
+=> assemblage		=> se démerder pour recoller tous les morceaux de code
